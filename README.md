@@ -12,7 +12,7 @@ This repository hosts a Power BI dashboard analyzing the Superstore dataset (sal
 - **Employees**: No. employees: 9; Avg age: 37; Top performer: Margaret Peacock (250.08K); Sales by title (Sales Rep highest).
 
 ## Screenshots
-![Home](images/home.png)  
+![Home](images/https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=drive_link)  
 ![Shipping](images/shipping.png)  
 ![Customers](images/customers.png)  
 ![Products](images/products.png)  
