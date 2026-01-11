@@ -1,34 +1,163 @@
 # Superstore Sales Dashboard
 
-This repository hosts a Power BI dashboard analyzing the Superstore dataset (sales data from 1996-1998 across categories like beverages and dairy, in countries including USA, Germany, and France).
+Power BI dashboard analyzing Superstore sales data (1996-1998) across multiple categories including beverages and dairy products, spanning countries like USA, Germany, and France.
 
-## Key Features
-- **Home Page**: Navigation to Main Dashboard, Timing Sales, Shipping & Supplier, Products & Categories, Customers, and Employees.
-- **Shipping & Supplier**: Avg days to ship: 8; Total freight: 64.94K; Freight cost/unit: 1.27; Suppliers: 29; Lowest ship days: USA (1), Venezuela (2), etc.
-- **Customers**: Retention rate: 96.70%; Churn: 3.17%; Total customers: 91; Repeat: 88; Top customer: Horst Kloss (114.60K sales); CLV: 7.14M.
-- **Products & Categories**: High demand: 32 products; Low: 43; Medium: 11; Top sales: Côte de Blaye (15,077.17); Stock levels visualized by product.
-- **Main Dashboard**: Total sales: 1.35M; Orders: 830; Avg order: 1.63K; Net profit: 64.15K; Sales by country (USA: 0.24M top); Net profit by category (Beverages: 67.12%).
-- **Timing Sales**: Sales growth: -4.2% (1997), -0.2% (1998); Gross margin by quarter; Quantity decline over time.
-- **Employees**: No. employees: 9; Avg age: 37; Top performer: Margaret Peacock (250.08K); Sales by title (Sales Rep highest).
+## 📊 Overview
 
-## Screenshots
+Interactive multi-page dashboard built with **Power BI** providing comprehensive business intelligence across shipping, sales, customers, employees, and inventory management.
+
+## 🎯 Key Features
+
+### Home Page
+Navigation hub to 6 analytical dashboards:
+- Main Dashboard
+- Timing Sales
+- Shipping & Supplier
+- Products & Categories
+- Customers
+- Employees
+
+### Main Dashboard
+- **Total Sales:** 1.35M
+- **Orders:** 830
+- **Avg Order Value:** 1.63K
+- **Net Profit:** 64.15K
+- **Sales by Country:** USA leads with 0.24M
+- **Net Profit by Category:** Beverages (67.12%)
+
+### Shipping & Supplier
+- **Avg Days to Ship:** 8 days
+- **Total Freight:** 64.94K
+- **Freight Cost/Unit:** 1.27
+- **Suppliers:** 29
+- **Lowest Ship Days:** USA (1 day), Venezuela (2 days)
+
+### Customers
+- **Retention Rate:** 96.70%
+- **Churn Rate:** 3.17%
+- **Total Customers:** 91 (88 repeat customers)
+- **Top Customer:** Horst Kloss (114.60K sales)
+- **Customer Lifetime Value:** 7.14M
+
+### Products & Categories
+- **High Demand:** 32 products
+- **Medium Demand:** 11 products
+- **Low Demand:** 43 products
+- **Top Product:** Côte de Blaye (15,077.17 sales)
+- Stock levels visualization by product
+
+### Timing Sales
+- **Sales Growth:** -4.2% (1997), -0.2% (1998)
+- Gross margin tracking by quarter
+- Quantity decline trend analysis over time
+
+### Employees
+- **Total Employees:** 9
+- **Average Age:** 37
+- **Top Performer:** Margaret Peacock (250.08K)
+- **Sales by Title:** Sales Representatives highest
+
+## 📸 Screenshots
+
 ![Home](https://drive.google.com/file/d/16OLFDk4mcSB8aAqfbxbLi-pRnYgsVnDb/view?usp=sharing)  
 ![Main Dashboard](https://drive.google.com/file/d/1kVMZ8IzFNchPZ0kGZj1KmAEOfbf4LT6k/view?usp=sharing)  
 ![Shipping](https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=sharing)  
 ![Customers](https://drive.google.com/file/d/1TaPYDZ1FDHDhb7u5j4hdnYiO_SWbt21Z/view?usp=sharing)  
 ![Products](https://drive.google.com/file/d/1_OjBrrMe23xEimX5mSPzLhJ1BkVCFEHM/view?usp=sharing)  
 ![Timing Sales](https://drive.google.com/file/d/1t1YGLnpnBtUbUCoKb1MCbOV0DjncJmJT/view?usp=sharing)  
-![Employees](https://drive.google.com/file/d/1O7wMrUMXgcAEumcIbRAu0rdPuBv6lAIC/view?usp=sharing)  
+![Employees](https://drive.google.com/file/d/1O7wMrUMXgcAEumcIbRAu0rdPuBv6lAIC/view?usp=sharing)
 
-## Setup
-1. Clone: `git clone https://github.com/LoubnaSaad/superstore-dashboard.git`  
-2. Open `.pbix` in Power BI Desktop.  
-3. Connect to `superstore.xlsx` (included or from Tableau sample data).  
-4. Refresh and explore.
+## 🚀 Setup
 
-## Technologies
-- Power BI for visualization.  
-- Data: Excel-based Superstore dataset.
+1. **Download the repository**
+   - Click the green "Code" button on GitHub
+   - Select "Download ZIP"
+   - Extract to your desired location
 
-## License
-MIT - Free to use/modify.
+2. **Open Power BI file**
+   - Navigate to the extracted folder
+   - Double-click the `.pbix` file to open with Power BI Desktop
+
+3. **Connect to data**
+   - Ensure `superstore.xlsx` is in the same directory
+   - If needed, update data source path in Power BI (Transform Data > Data Source Settings)
+
+4. **Refresh and explore**
+   - Click "Refresh" to load the data
+   - Navigate through the dashboard pages
+
+## 🛠️ Technologies
+
+- **Power BI Desktop** - Dashboard creation and visualization
+- **Data Source** - Excel-based Superstore dataset
+- **DAX** - Calculated measures and KPIs
+- **Power Query** - Data transformation
+
+## 📁 Project Structure
+
+```
+superstore-dashboard/
+├── dashboard.pbix           # Power BI dashboard file
+├── superstore.xlsx          # Superstore dataset
+├── README.md
+└── screenshots/
+    ├── home.png
+    ├── main-dashboard.png
+    ├── shipping.png
+    ├── customers.png
+    ├── products.png
+    ├── timing-sales.png
+    └── employees.png
+```
+
+## 📊 Data Model
+
+**Dataset Period:** 1996-1998
+
+**Key Entities:**
+- Sales transactions
+- Customers
+- Products & Categories (Beverages, Dairy, etc.)
+- Employees
+- Suppliers
+- Shipping records
+
+**Geographical Coverage:**
+- USA
+- Germany
+- France
+- Venezuela
+- Other international markets
+
+## 🎨 Design Features
+
+- Modern dark theme with blue/purple gradient
+- Interactive filters and slicers
+- Cross-page drill-through capabilities
+- Dynamic KPI cards with trend indicators
+- Geographical mapping
+- Custom tooltips
+- Icon-based navigation
+
+## 📈 Key Metrics
+
+- Sales performance and growth trends
+- Customer retention and churn analysis
+- Product demand classification
+- Employee performance tracking
+- Shipping efficiency metrics
+- Profit margins by category
+
+## 📄 License
+
+MIT License - Free to use and modify
+
+## 🤝 Contributing
+
+Contributions welcome! Please open an issue or submit a pull request on GitHub.
+
+---
+
+**Repository:** [LoubnaSaad/superstore-dashboard](https://github.com/LoubnaSaad/superstore-dashboard)
+
+**Note:** Download all files and ensure the Excel file is accessible before loading into Power BI.
