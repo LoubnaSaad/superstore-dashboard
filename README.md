@@ -59,14 +59,13 @@ Navigation hub to 6 analytical dashboards:
 
 ## 📸 Screenshots
 
-![Home](https://drive.google.com/file/d/16OLFDk4mcSB8aAqfbxbLi-pRnYgsVnDb/view?usp=sharing)  
-![Main Dashboard](https://drive.google.com/file/d/1kVMZ8IzFNchPZ0kGZj1KmAEOfbf4LT6k/view?usp=sharing)  
-![Shipping](https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=sharing)  
-![Customers](https://drive.google.com/file/d/1TaPYDZ1FDHDhb7u5j4hdnYiO_SWbt21Z/view?usp=sharing)  
-![Products](https://drive.google.com/file/d/1_OjBrrMe23xEimX5mSPzLhJ1BkVCFEHM/view?usp=sharing)  
-![Timing Sales](https://drive.google.com/file/d/1t1YGLnpnBtUbUCoKb1MCbOV0DjncJmJT/view?usp=sharing)  
-![Employees](https://drive.google.com/file/d/1O7wMrUMXgcAEumcIbRAu0rdPuBv6lAIC/view?usp=sharing)
-
+![Home](screenshots/IMG-20251026-WA0106.png)
+![Main Dashboard](screenshots/main-dashboard.png)
+![Shipping](screenshots/shipping.png)
+![Customers](screenshots/customers.png)
+![Products](screenshots/products.png)
+![Timing Sales](screenshots/timing-sales.png)
+![Employees](screenshots/employees.png)
 ## 🚀 Setup
 
 1. **Download the repository**
