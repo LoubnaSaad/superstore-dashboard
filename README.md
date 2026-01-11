@@ -59,13 +59,14 @@ Navigation hub to 6 analytical dashboards:
 
 ## 📸 Screenshots
 
-![Home](screenshots/IMG-20251026-WA0106.png)
-![Main Dashboard](screenshots/main-dashboard.png)
-![Shipping](screenshots/shipping.png)
-![Customers](screenshots/customers.png)
-![Products](screenshots/products.png)
-![Timing Sales](screenshots/timing-sales.png)
-![Employees](screenshots/employees.png)
+![Home](IMG-20251026-WA0106.jpg)  
+![Main Dashboard](IMG-20251026-WA0107.jpg)  
+![Shipping & Supplier](IMG-20251026-WA0109.jpg)  
+![Customers](IMG-20251026-WA0110.jpg)  
+![Products & Categories](IMG-20251026-WA0111.jpg)  
+![Timing Sales](IMG-20251026-WA0112.jpg)  
+![Employees](IMG-20251026-WA0113.jpg)
+
 ## 🚀 Setup
 
 1. **Download the repository**
