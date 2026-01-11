@@ -12,13 +12,13 @@ This repository hosts a Power BI dashboard analyzing the Superstore dataset (sal
 - **Employees**: No. employees: 9; Avg age: 37; Top performer: Margaret Peacock (250.08K); Sales by title (Sales Rep highest).
 
 ## Screenshots
-![Home](images/https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=drive_link)  
-![Shipping](images/shipping.png)  
-![Customers](images/customers.png)  
-![Products]([images/products.png](https://drive.google.com/drive/folders/10MybUuW4AMgPuE2JJSYLEZXVx0ldZXzW))  
-![Main Dashboard](images/main-dashboard.png)  
-![Timing Sales](images/timing-sales.png)  
-![Employees](images/employees.png)  
+![Home](https://drive.google.com/file/d/16OLFDk4mcSB8aAqfbxbLi-pRnYgsVnDb/view?usp=sharing)  
+![Main Dashboard](https://drive.google.com/file/d/1kVMZ8IzFNchPZ0kGZj1KmAEOfbf4LT6k/view?usp=sharing)  
+![Shipping](https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=sharing)  
+![Customers](https://drive.google.com/file/d/1TaPYDZ1FDHDhb7u5j4hdnYiO_SWbt21Z/view?usp=sharing)  
+![Products](https://drive.google.com/file/d/1_OjBrrMe23xEimX5mSPzLhJ1BkVCFEHM/view?usp=sharing)  
+![Timing Sales](https://drive.google.com/file/d/1t1YGLnpnBtUbUCoKb1MCbOV0DjncJmJT/view?usp=sharing)  
+![Employees](https://drive.google.com/file/d/1O7wMrUMXgcAEumcIbRAu0rdPuBv6lAIC/view?usp=sharing)  
 
 ## Setup
 1. Clone: `git clone https://github.com/LoubnaSaad/superstore-dashboard.git`  
