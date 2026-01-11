@@ -15,7 +15,7 @@ This repository hosts a Power BI dashboard analyzing the Superstore dataset (sal
 ![Home](images/https://drive.google.com/file/d/12xAruDAcwnFQXvscSb-saqZgvfno4UXD/view?usp=drive_link)  
 ![Shipping](images/shipping.png)  
 ![Customers](images/customers.png)  
-![Products](images/products.png)  
+![Products]([images/products.png](https://drive.google.com/drive/folders/10MybUuW4AMgPuE2JJSYLEZXVx0ldZXzW))  
 ![Main Dashboard](images/main-dashboard.png)  
 ![Timing Sales](images/timing-sales.png)  
 ![Employees](images/employees.png)  
